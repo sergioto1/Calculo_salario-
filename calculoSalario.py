@@ -17,4 +17,4 @@ def calculoSalario (horas: int, tarifa: float) -> float:
         salario = horas * tarifa
         return salario
         
-print(calculoSalario(41,30000))
+print(calculoSalario(43,30000))
